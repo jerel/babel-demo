@@ -1,0 +1,17 @@
+{
+  "name": "peers",
+  "version": "1.0.0",
+  "description": "npm install --global babel",
+  "main": "app.js",
+  "bin": {
+    "peers": "app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "websocket": "^1.0.18"
+  }
+}
